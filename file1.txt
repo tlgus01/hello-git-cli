@@ -1,2 +1,2 @@
 hello git
-commit -a 적용
+commit -a 적용3rd message
